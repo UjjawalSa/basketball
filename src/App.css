@@ -1,0 +1,116 @@
+.css-hip9hq-MuiPaper-root-MuiAppBar-root {
+  background-color: #2C3EC4 !important;
+}
+
+.css-1gsv261 {
+  background-color: #2A3AAD !important;
+}
+
+.css-1h9z7r5-MuiButtonBase-root-MuiTab-root {
+  text-transform: capitalize !important;
+  color: #8D96D3 !important;
+}
+
+.Mui-selected {
+  color: #FFFFFF !important;
+}
+
+.css-1aquho2-MuiTabs-indicator {
+  background-color: #FFFFFF !important;
+}
+
+.main_content_back_color {
+  background-color: #EDF1F6 !important;
+}
+
+.Card_border {
+  border-radius: 16px !important;
+}
+
+.e-calendar {
+  border-spacing: 0;
+  max-width: 100% !important;
+  min-width: 240px;
+  padding: 0;
+}
+
+@media only screen and (max-width: 600px) {
+  .display_in_mobile {
+    display: none;
+  }
+}
+
+.main_heading {
+  color: #000;
+  font: 700 16px / 1.25 "Sofascore Sans", sans-serif;
+}
+
+.right_card_data {
+  color: #000;
+  text-align: center;
+  font: 700 12px / 1.14 "Sofascore Sans", sans-serif;
+  text-overflow: ellipsis;
+  overflow: hidden;
+  white-space: nowrap;
+}
+
+.card_data_back {
+  background-color: #EDF1F6;
+  border-radius: 16px;
+}
+
+.card_data_back:hover {
+  background-color: #DEDEDF;
+  border-radius: 16px;
+  cursor: pointer;
+}
+
+.center_card_main_content {
+  background-color: #EDF1F6;
+  border-radius: 16px;
+}
+
+.content_side {
+  margin-left: 5%;
+}
+
+.content_side1 {
+  margin-right: 5%;
+}
+
+.data_head {
+  color: #8d8d99;
+  font: 700 12px / 1.14 "Sofascore Sans", sans-serif;
+}
+
+.data_title {
+  color: #000;
+  font-family: "Sofascore Sans", sans-serif;
+  font-size: 13px;
+}
+
+.border_left {
+  border-left: 1px solid #8d8d99;
+  margin-left: 5px;
+}
+
+.hover_handle:hover {
+  cursor: pointer;
+}
+
+.link_color:hover {
+  background-color: whitesmoke;
+}
+
+.footer{
+  background-color:#2C3EC4;
+}
+.footer_head{
+  color: white;
+  font: 700 18px / 1.33 "Sofascore Sans", sans-serif;
+}
+
+.footer_content{
+  color: #FFFFFF;
+  font: 400 14px / 1.14 "Sofascore Sans", sans-serif;
+}
